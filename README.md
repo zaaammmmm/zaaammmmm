@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 💡 Passionate About Web Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Informatic+Engineering,+Solidarity+Forever!!💻;Always+learning+new+things+;Don't+be+fool+&+lazy+🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Informatic+Engineering,+Solidarity+Forever!!🔥;Always+learning+new+things💻+;Don't+be+fool+and+lazy+🔥" alt="Typing Animation" />
 </p>
 
 ---
