@@ -1,9 +1,9 @@
 <!-- PROFIL README UNTUK: zaaammmmm -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#00ADEF;">Ahmad Zamroni Trikarta</span></h1>
+<h1 align="center">👋 Halo bang, I'm <span style="color:#00ADEF;">Ahmad Zamroni Trikarta</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | 💡 Passionate About Web Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+love+building+scalable+web+apps+💻;Always+learning+new+things+🔥;Let's+create+something+awesome+together!+🤝" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Informatic+Engineering,+Solidarity+Forever!!💻;Always+learning+new+things+;Don't+be+fool+&+lazy+🔥" alt="Typing Animation" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ Hi! I'm **Ahmad Zamroni Trikarta**, a developer based in **Yogyakarta, Indonesia
 Currently passionate about **web development**, **system design**, and **creative programming**.  
 I enjoy transforming ideas into elegant, efficient, and scalable web applications.  
 
-💬 *My motto:* “Code with clarity, build with creativity.”  
+💬 *Apapun masalahmu, hemparkan sajadahmu.”  
 
 ---
 
@@ -37,50 +37,45 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
 
 ---
 
-### 🌟 Featured Projects
+<!-- STATS (Real-Time) -->
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaaammmmm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+<td width="50%" align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaaammmmm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
 
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [**KOPKAS**](https://github.com/zaaammmmm/project-kopkas) | A web app for sexual violence reporting using **TypeScript**, **Supabase**, and **Next.js** | TypeScript, Supabase, Tailwind |
-| [**TERAS-SC**](https://github.com/zaaammmmm/TERAS-SC) | Smart booking system for student center rooms | JavaScript, Node.js, MySQL |
-| [**SWIFT**](https://github.com/zaaammmmm/SWIFT) | "Tempat Scala Bersinar" — an open platform for Scala learning | Scala, Express |
-
-🧩 *More projects available on my repositories → [click here](https://github.com/zaaammmmm?tab=repositories)*  
-
----
-
-### 📊 GitHub Statistics
-
+<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaaammmmm&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/zaaammmmm/github-readme-activity-graph">
+    <img alt="Salman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zaaammmmm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" />
+  </a>
 </p>
 
+<!-- CLOSING GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaammmmm&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
----
+<!-- CONNECT WITH ME -->
+<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
 
-### 🌐 Connect With Me
-
+<!-- SOCIAL & WEBSITE -->
 <p align="center">
-  <a href="mailto:ahmadzamroni@example.com"><img src="https://img.shields.io/badge/Email-00ADEF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ahmadzamroni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/zaaammmmm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/zaaammmmm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/zaaammmmm"><img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-zamroni-trikarta-027511308"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:slmnalfauzi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https:///"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white"/></a>
+  <a href="https://instagram.com/_0ne_in_milli0n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@_zaaammm0"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://x.com/"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
-
----
-
-### 🧠 Fun Facts
-- 🌱 Currently learning **Cloud Architecture & Realtime Database**
-- 🎯 Goal: Build impactful open-source software
-- 🎮 Hobbies: Code, design UI, gaming, and writing tech articles
-
----
-
-<h3 align="center">✨ “Stay curious, stay creative, and keep coding.” ✨</h3>
+h3>
 
 <p align="center">
   <img src="https://github.com/zaaammmmm/zaaammmmm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
