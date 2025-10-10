@@ -63,7 +63,7 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
 </p>
 
 <!-- CONNECT WITH ME -->
-<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
+<p align="center"><em>I’m all about vibing with new people, so if you wanna say hey, I’m totally down to meet ya!</em></p>
 
 <!-- SOCIAL & WEBSITE -->
 <p align="center">
@@ -74,9 +74,4 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
   <a href="https://instagram.com/_0ne_in_milli0n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tiktok.com/@_zaaammm0"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://x.com/"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-h3>
-
-<p align="center">
-  <img src="https://github.com/zaaammmmm/zaaammmmm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
