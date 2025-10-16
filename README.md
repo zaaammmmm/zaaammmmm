@@ -37,23 +37,23 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
 
 ---
 
-<!-- STATS (Real-Time) -->
-<table border="0">
-<tr border="0">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaaammmmm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-<td width="50%" align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zaaammmmm streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=dark&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaaammmmm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</td>
-</tr>
+<table align="center" style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 50%; text-align: center; border: none;">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaaammmmm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+    </td>
+    <td style="width: 50%; text-align: center; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=dark&hide_border=true" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" />
+      <br/><br/> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaaammmmm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" alt="GitHub Stats" />
+    </td>
+  </tr>
 </table>
 
-<!-- ACTIVITY GRAPH -->
+---
+
 <p align="center">
   <a href="https://github.com/zaaammmmm/github-readme-activity-graph">
-    <img alt="Salman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zaaammmmm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaaammmmm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" alt="zaaammmmm's Activity Graph" />
   </a>
 </p>
 
