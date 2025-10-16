@@ -11,7 +11,7 @@
 ### 🧭 About Me
 
 Hi! I'm **Ahmad Zamroni Trikarta**, a developer based in **Yogyakarta, Indonesia** 🇮🇩.  
-Currently passionate about **web development**, **system design**, and **creative programming**.  
+Currently passionate about **web development**, **system design**, and **software engineer**.  
 I enjoy transforming ideas into elegant, efficient, and scalable web applications.  
 
 💬 *Apapun masalahmu, hemparkan sajadahmu.”  
@@ -44,7 +44,7 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zaaammmmm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 <td width="50%" align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=dark&hide_border=true" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zaaammmmm streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaammmmm&theme=dark&hide_border=true" />
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zaaammmmm&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
@@ -69,7 +69,7 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
 <p align="center">
   <a href="https://github.com/zaaammmmm"><img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ahmad-zamroni-trikarta-027511308"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:slmnalfauzi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmadtrikarta5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https:///"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white"/></a>
   <a href="https://instagram.com/_0ne_in_milli0n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tiktok.com/@_zaaammm0"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
