@@ -18,22 +18,75 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Languages and Tools
 
-#### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cpp,java,py" />
+<p align="left">
+<a>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
+<a>
+<img alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</a>
+<a>
+<img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</a>
+<a>
+<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</a>
+<a>
+<img alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</a>
+<a>
+<img alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</a>
+<a>
+<img alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</a>
+<a>
+<img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</a>
+<a>
+<img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+</a>
+<a>
+<img alt="Threejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+</a>
+<a>
+<img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+<a>
+<img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+<a>
+<img alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+</a>
+<a>
+<img alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+</a>
+<a>
+<img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</a>
+<a>
+<img alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</a>
+<a>
+<img alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</a>
+<a>
+<img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+<a>
+<img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
 </p>
 
-#### 🧰 Tools & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,tailwind,bootstrap" />
+<h3 align="left">📲 My Sosial Media:</h3>
+<p align="left">
+<a href = "mailto:ahmadtrikarta%@gmail.com" target="blank"><img align="center" title="ahmadtrikarta5@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="ahmad-email" height="35" width="40"/></a>
+<a href="https://www.linkedin.com/in/ahmad-zamroni-trikarta-027511308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-linkdin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_0ne_in_milli0n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad-ig" height="30" width="40" /></a>
 </p>
-
-#### 🗄️ Database & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" />
-</p>
+<br />
 
 ---
 
