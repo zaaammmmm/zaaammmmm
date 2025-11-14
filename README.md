@@ -122,6 +122,3 @@ I enjoy transforming ideas into elegant, efficient, and scalable web application
   <a href="https://tiktok.com/@_zaaammm0"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://x.com/"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
-
-.
-
